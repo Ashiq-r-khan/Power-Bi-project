@@ -1,16 +1,16 @@
-# 🏨 Hospitality Dashboard — Power BI
+#  Hospitality Dashboard — Power BI
 
 An interactive business intelligence dashboard built in **Power BI Desktop**, analyzing hotel performance metrics across multiple cities and properties in India.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
-> 📁 See `Hospitality_Dashboard.pdf` in this repository for the full dashboard export.
+>  See `Hospitality_Dashboard.pdf` in this repository for the full dashboard export.
 
 ---
 
-## 🔍 Key Metrics Analyzed
+##  Key Metrics Analyzed
 
 | Metric | Value |
 |--------|-------|
@@ -23,7 +23,7 @@ An interactive business intelligence dashboard built in **Power BI Desktop**, an
 
 ---
 
-## 🏙️ Cities Covered
+##  Cities Covered
 
 - Mumbai — ₹0.66bn revenue
 - Bangalore — ₹0.42bn revenue
@@ -32,7 +32,7 @@ An interactive business intelligence dashboard built in **Power BI Desktop**, an
 
 ---
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 | Page | Description |
 |------|-------------|
@@ -48,7 +48,7 @@ An interactive business intelligence dashboard built in **Power BI Desktop**, an
 
 ---
 
-## 🔧 Features & Techniques
+##  Features & Techniques
 
 - **KPI Cards** — Revenue, Occupancy%, RevPAR, ADR, DSRN, Realisation%
 - **Interactive Filters** — City, Category, Class, Status, Platform, Month
@@ -61,7 +61,7 @@ An interactive business intelligence dashboard built in **Power BI Desktop**, an
 
 ---
 
-## 🗂️ Data Model
+##  Data Model
 
 ```
 fact_bookings
@@ -74,7 +74,7 @@ key_Masures_Table
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI Desktop** — Report design & DAX
 - **Power Query** — Data transformation & cleaning
@@ -82,7 +82,7 @@ key_Masures_Table
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 | File | Description |
 |------|-------------|
@@ -91,16 +91,11 @@ key_Masures_Table
 
 ---
 
-## 👤 Author
+##  Author
 
 **Md. Ashiqur Rahman Khan Ashik**
 B.Sc. Statistics — Mawlana Bhashani Science and Technology University (MBSTU)
-📍 Tangail, Bangladesh
+Tangail, Bangladesh
 
----
 
-## 📬 Contact
 
-- GitHub: [your-github-username]
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
